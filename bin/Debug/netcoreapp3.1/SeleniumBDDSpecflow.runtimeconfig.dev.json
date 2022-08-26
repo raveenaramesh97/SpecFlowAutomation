@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Indium Software\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Indium Software\\.nuget\\packages"
+    ]
+  }
+}
